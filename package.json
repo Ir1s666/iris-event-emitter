@@ -7,6 +7,11 @@
     "dist",
     "index.d.ts"
   ],
+  "keywords": [
+    "event",
+    "event emit",
+    "pubsub"
+  ],
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
   "types": "./index.d.ts",
